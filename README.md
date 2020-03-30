@@ -17,3 +17,4 @@ It's solutions for Leetcode, consisting of **Java** and **Kotlin** languages tha
 |4|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [Java](./java/0004_Median_of_Two_Sorted_Arrays.java),  [Kotlin](kotlin/0004_Median_of_Two_Sorted_Arrays.kt)|Hard|
 |5|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [Java](./java/0005_Longest_Palindromic_Substring.java),  [Kotlin](kotlin/0005_Longest_Palindromic_Substring.kt)|Medium|
 |6|[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/) | [Java](./java/0006_ZigZag_Conversion.java),  [Kotlin](kotlin/0006_ZigZag_Conversion.kt)|Medium|
+|7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [Java](./java/0007_Reverse_Integer.java),  [Kotlin](kotlin/0007_Reverse_Integer.kt)|Easy|
