@@ -22,3 +22,4 @@ It's solutions for Leetcode, consisting of **Java** and **Kotlin** languages tha
 |9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Java](./java/0009_Palindrome_Number.java),  [Kotlin](kotlin/0009_Palindrome_Number.kt)|Easy|
 |11|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [Java](./java/0011_Container_With_Most_Water.java),  [Kotlin](kotlin/0011_Container_With_Most_Water.kt)|Medium|
 |12|[Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | [Java](./java/0012_Integer_to_Roman.java),  [Kotlin](kotlin/0012_Integer_to_Roman.kt)|Medium|
+|13|[Roman To Integer](https://leetcode.com/problems/roman-to-integer/) | [Java](./java/0013_Roman_To_Integer.java),  [Kotlin](kotlin/0013_Roman_To_Integer.kt)|Easy|
