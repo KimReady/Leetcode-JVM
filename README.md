@@ -23,3 +23,4 @@ It's solutions for Leetcode, consisting of **Java** and **Kotlin** languages tha
 |11|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [Java](./java/0011_Container_With_Most_Water.java),  [Kotlin](kotlin/0011_Container_With_Most_Water.kt)|Medium|
 |12|[Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | [Java](./java/0012_Integer_to_Roman.java),  [Kotlin](kotlin/0012_Integer_to_Roman.kt)|Medium|
 |13|[Roman To Integer](https://leetcode.com/problems/roman-to-integer/) | [Java](./java/0013_Roman_To_Integer.java),  [Kotlin](kotlin/0013_Roman_To_Integer.kt)|Easy|
+|14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [Java](./java/0014_Longest_Common_Prefix.java),  [Kotlin](kotlin/0014_Longest_Common_Prefix.kt)|Easy|
